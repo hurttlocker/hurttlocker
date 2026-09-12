@@ -10,4 +10,4 @@ Smaller tools from the same shop: **[ginsu](https://github.com/hurttlocker/ginsu
 
 What I care about: one source of truth, observable state, a human gate that stays useful as delegation grows. Receipts over adjectives.
 
-Where to find me: [o8.run](https://o8.run) · [@marquisehurtt](https://x.com/marquisehurtt) · Discord at [o8.run/discord](https://o8.run/discord)
+Where to find me: [o8.run](https://o8.run) · [@marquisehurtt](https://x.com/marquisehurtt) · [Discord](https://discord.gg/TFK2x9A5WS)
